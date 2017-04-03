@@ -8,7 +8,7 @@
 	License: GNU General Public License version 3.0
 	License URI: http://www.gnu.org/licenses/gpl-3.0.html
 	Version: 1.0
-	
+
 	All files, unless otherwise stated, are released under the GNU General Public License
 	version 3.0 (http://www.gnu.org/licenses/gpl-3.0.html)
 
@@ -276,7 +276,7 @@ p {
   color: #999;
   font-size: 12px;
   text-align: left;
-  text-decoration: none;  
+  text-decoration: none;
 }
 .fb:hover { color: #3a579d; }
 .twitter:hover { color: #22cbff; }
@@ -369,7 +369,7 @@ p {
   z-index: 5;
 }
 .color-line .w-col {
-  height: 6px;  
+  height: 6px;
 }
 .color-one { background-color: #22a966; }
 .color-two { background-color: #eb5836; }
@@ -680,7 +680,7 @@ p {
   opacity: 0.8;
   -webkit-transition: all 500ms ease;
   -o-transition: all 500ms ease;
-  transition: all 500ms ease;  
+  transition: all 500ms ease;
 }
 .logo-slider img:hover {
   opacity: 1;
@@ -963,6 +963,7 @@ p {
   font-weight: 600;
   letter-spacing: 1px;
   text-transform: uppercase;
+  text-align: center;
 }
 .p-bold {
   color: #666;
@@ -1208,7 +1209,7 @@ p {
   padding-top: 3px;
   padding-bottom: 3px;
   margin-top: 24px;
-  
+
 }
 .from {
   margin-bottom: 14px;
